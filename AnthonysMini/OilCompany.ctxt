@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OilCompany
+comment1.params=
+comment1.target=OilCompany()
+comment2.params=
+comment2.target=double\ getPopulationTax()
+comment3.params=
+comment3.target=void\ setPopulationTax()
+comment4.params=
+comment4.target=double\ getOilExploration()
+comment5.params=
+comment5.target=void\ setOilExploration()
+numComments=6

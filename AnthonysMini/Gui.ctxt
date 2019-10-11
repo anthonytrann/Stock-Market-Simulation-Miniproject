@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Gui
+comment1.params=
+comment1.target=Gui()
+comment2.params=
+comment2.target=void\ sellbuynextday()
+comment3.params=
+comment3.target=void\ buy()
+comment4.params=
+comment4.target=void\ sell()
+comment5.params=
+comment5.target=void\ nextday()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Portfolio
+comment1.params=
+comment1.target=Portfolio()
+comment2.params=
+comment2.target=double\ getProfit()
+comment3.params=newProfit
+comment3.target=void\ setProfit(double)
+comment4.params=
+comment4.target=double\ getValue()
+comment5.params=value
+comment5.target=void\ setValue(double)
+numComments=6

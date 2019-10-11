@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TechCompany
+comment1.params=
+comment1.target=TechCompany()
+comment2.params=
+comment2.target=double\ getFaulty()
+comment3.params=
+comment3.target=void\ setFaulty()
+comment4.params=
+comment4.target=double\ getNewProduct()
+comment5.params=
+comment5.target=void\ setNewProduct()
+numComments=6
